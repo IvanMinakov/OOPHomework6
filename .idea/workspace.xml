@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c8b5139-398e-4f6b-b06c-13f36c8ef843" name="Changes" comment="some changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NRzvelIfQ0EvjNG2pOBzsZXFLi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ivanminakov/Downloads/JavaOOPSeminars-main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="seminar01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaOOPSeminars-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaOOPSeminars-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c8b5139-398e-4f6b-b06c-13f36c8ef843" name="Changes" comment="" />
+      <created>1679641921123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679641921123</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initialization commit">
+      <created>1679642002906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679642002906</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added seminar01">
+      <created>1679649913615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679649913615</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added seminar02 progress">
+      <created>1679995852552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679995852552</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added seminar03 progress">
+      <created>1680253389820</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680253389820</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added homework03 progress">
+      <created>1680280912465</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680280912465</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added homework03 progress">
+      <created>1680281173613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281173613</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added Team class">
+      <created>1680412129700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680412129700</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added seminar04 progress and homework04">
+      <created>1680622201255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680622201256</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added seminar05 progress and homework05">
+      <created>1680864404209</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680864404210</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changed homework05">
+      <created>1680918512468</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680918512468</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changed homework05">
+      <created>1680919271790</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680919271790</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changed project structure">
+      <created>1681109793956</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681109793956</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added seminar06 progress">
+      <created>1681205594055</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681205594055</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added homework06">
+      <created>1681229378806</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681229378806</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added originalView">
+      <created>1681271422954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681271422954</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added Team class, replaces ArrayLists with Teams">
+      <created>1681353674988</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681353674988</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added Team class, replaces ArrayLists with Teams">
+      <created>1681354314799</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681354314799</updated>
+    </task>
+    <task id="LOCAL-00018" summary="some changes">
+      <created>1681461424755</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681461424755</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialization commit" />
+    <MESSAGE value="added seminar01" />
+    <MESSAGE value="added seminar02 progress" />
+    <MESSAGE value="added seminar03 progress" />
+    <MESSAGE value="added homework04 progress" />
+    <MESSAGE value="added homework03 progress" />
+    <MESSAGE value="added Teams" />
+    <MESSAGE value="added Team class" />
+    <MESSAGE value="added seminar04 progress and homework04" />
+    <MESSAGE value="added seminar05 progress and homework05" />
+    <MESSAGE value="changed homework05" />
+    <MESSAGE value="changed project structure" />
+    <MESSAGE value="added seminar06 progress" />
+    <MESSAGE value="added homework06" />
+    <MESSAGE value="added originalView" />
+    <MESSAGE value="added Team class, replaces ArrayLists with Teams" />
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
